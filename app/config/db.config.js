@@ -1,3 +1,4 @@
 module.exports = {
-  url: 'mongodb://localhost:27017/army_db',
+  url:
+    'mongodb+srv://armydbadmin:DEXTRShark1736@armycluster.7phcv.mongodb.net/army_db?retryWrites=true&w=majority',
 };
